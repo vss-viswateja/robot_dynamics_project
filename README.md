@@ -81,10 +81,3 @@ If you come across any useful resources related to Robot Dynamics and Control, p
 
 * VSS Viswa Teja Bottu
 
-## License
-
-[**Add your project's license information here. Example: MIT License, GPL, etc.**]
-
----
-
-**Note:** Please replace the bracketed placeholders with your specific project details.
