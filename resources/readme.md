@@ -1,1 +1,1 @@
-#This directory contains the required resources for the repo
+This directory contains the required resources for the project
